@@ -7,6 +7,9 @@ public class Driver {
 		System.out.println("my driver works");
 		System.out.println("altered on PC");
 		System.out.println("Our team is getting started");
+		new Glad();
+		new Sad();
+		new Hungry(); 
 	}
 
 }
